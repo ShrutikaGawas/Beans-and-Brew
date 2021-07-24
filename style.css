@@ -5,7 +5,7 @@
 }
 .top-container {
   height: 100vh;
-  background-image: url("teahub.jpg");
+  background-image: url("Images/teahub.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -180,7 +180,7 @@ h4 {
 }
 .newsletter {
   height: 100vh;
-  background-image: url("newsletter.jpg");
+  background-image: url("Images/newsletter.jpg");
   background-position: center;
   background-size: cover;
 }
